@@ -7,7 +7,7 @@ BIO转换将YEDDA输出的文件内容转换为BIO模式，适合了我们平时
 2. YEDDA中文版： python 3.x
 ## 运行
 1. 首先运行YEDDA，注意YEDDA的输入文件格式
-2. 改 BIO转换.py 输入输出文件
+2. 改 BIO转换文件的输入输出路径
 
 ## 引用
 @article{yang2017yedda,  
