@@ -3,8 +3,8 @@
 ## 所做工作
 BIO转换将YEDDA输出的文件内容转换为BIO模式，适合了我们平时的数据标注模式。这里只对BIO转换文件做了些改进，使得运行更加通畅。
 ## 环境
-YEDDA原版： python 2.7
-YEDDA中文版： python 3.x
+1. YEDDA原版： python 2.7
+2. YEDDA中文版： python 3.x
 ## 运行
 1. 首先运行YEDDA，注意YEDDA的输入文件格式
 2. 改 BIO转换.py 输入输出文件
